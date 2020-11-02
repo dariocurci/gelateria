@@ -1,4 +1,4 @@
 1174909
 * GELATI:
- * [gelato banana split](banana_split.md)
- * [gelato coppa nafta](coppa_nafta.md)
+ * [gelato banana split](gelati/banana_split.md)
+ * [gelato coppa nafta](gelati/coppa_nafta.md)
